@@ -16,3 +16,11 @@ run go build main.go in go directory
 locust
 
 
+
+nginx 
+
+all folders in the path of /font dir must have +x access
+setenforce permissive
+
+os
+project must be in ~/web/assignments/...
